@@ -55,7 +55,7 @@ export default function Index() {
 
 const resources = [
   {
-    href: "https://remix.run/start/quickstart",
+    href: "https://github.com/Minimix555/Mix",
     text: "Quick Start (5 min)",
     icon: (
       <svg
